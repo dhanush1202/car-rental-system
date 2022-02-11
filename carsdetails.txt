@@ -1,0 +1,23 @@
+
+
+		 Booking details
+
+	Name: mini
+	Contact no: 9876543210
+	Car: Audi
+	Price: 30000
+	model: 2017LA
+	Booked on date: 14/02/22
+	time: 14:50
+
+
+
+		 Booking details
+
+	Name: dhanush
+	Contact no: 9398060251
+	Car: Tesla
+	Price: 10000
+	model: 2018OW
+	Booked on date: 12/12/2022
+	time: 12:30
